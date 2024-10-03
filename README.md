@@ -1,4 +1,4 @@
-No frameworks
-No AI
-Local content
-Proper folder structure
+-No frameworks
+-No AI
+-Local content
+-Proper folder structure
